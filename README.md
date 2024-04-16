@@ -1,2 +1,2 @@
 # NTNU Course -- AIP
-![this is a pic](https://myoctocat.com/assets/images/base-octocat.svg)
+This project was learned and created as part of AIP course at school.
