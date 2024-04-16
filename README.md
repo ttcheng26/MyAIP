@@ -1,2 +1,3 @@
 # NTNU Course -- AIP
-This project was learned and created as part of AIP course at school.
+The project was learned and created as part of AIP course at school.
+This utilizes Python for its programming language, and the GUI is created using Tkinter.
