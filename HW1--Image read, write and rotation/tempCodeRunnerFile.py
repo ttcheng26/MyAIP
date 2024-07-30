@@ -1,1 +1,0 @@
-cv2.COLOR_BGR2GRAY
