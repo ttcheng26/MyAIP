@@ -1,18 +1,10 @@
-# NTNU Course -- AIP
-The project was learned and created as part of AIP course at school.
-This utilizes Python for its programming language, and the GUI is created using Tkinter.
+# NTNU Course -- Advanced Image Processing (AIP)
 
-## 1. Image Gray scale & GUI created
-首先安裝需要的Package, GUI我所使用的是Tkinter, 原因在於介面簡單、清楚。
+這是我在研究所"高等影像處理"課程所學習到的技術  
+我將分成HW1~HW5來介紹所使用到的技能和工具  
+最後實作出一個Final Project-Lane mark detection
 
-    import tkinter as tk
-    from PIL import Image, ImageTk
-    from tkinter import filedialog, Variable
-    import cv2
-    import numpy as np
-    import matplotlib.pyplot as plt
-    import os
-
+## 道路標線監測-以公速公路為例  
 ![image](https://github.com/ttcheng26/MyAIP/blob/main/video%26gif/road1.gif)
-
+## 道路標線監測-以平面道路為例  
 ![image](https://github.com/ttcheng26/MyAIP/blob/main/video%26gif/road2.gif)
