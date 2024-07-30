@@ -13,3 +13,6 @@ This utilizes Python for its programming language, and the GUI is created using 
     import matplotlib.pyplot as plt
     import os
 
+![image](https://github.com/ttcheng26/MyAIP/blob/main/video%26gif/road1.gif)
+
+![image](https://github.com/ttcheng26/MyAIP/blob/main/video%26gif/road2.gif)
