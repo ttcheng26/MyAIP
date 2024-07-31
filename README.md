@@ -7,13 +7,14 @@
 
 [PPT連結](https://docs.google.com/presentation/d/1pN_xkbU7KT0wbUZ9j-8dMvAOy0SSliD8/edit?usp=sharing&ouid=111654848677205718452&rtpof=true&sd=true)  
 
-### 使用語言&主要套件以及知識點:  
-程式語言: Python
-套件: OpenCV, Tkinter 
-知識點: Image gray scale / 
+### 使用語言&主要套件以及知識點:    
+**程式語言: Python  
+套件: OpenCV, Tkinter   
+知識點: Image gray scale**  
 
 ## 成果展示:  
 ### 道路標線監測-以公速公路為例  
-![image](https://github.com/ttcheng26/MyAIP/blob/main/video%26gif/road1.gif)
+<img src="video&gif\road1.gif"/>
+
 ### 道路標線監測-以平面道路為例  
-![image](https://github.com/ttcheng26/MyAIP/blob/main/video%26gif/road2.gif)
+<img src="video&gif\road2.gif"/>
