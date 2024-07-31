@@ -13,4 +13,4 @@
 最後用PyInstaller將程式碼轉換成執行檔。**
 
 ### 影像灰階化並顯示直方圖新增[顯示灰階][直方圖]之功能鍵
-![image](https://github.com/ttcheng26/MyAIP/blob/main/HW1--Image%20read%2C%20write%20and%20rotation/image/image_gray.jpg)
+![image](https://github.com/ttcheng26/MyAIP/blob/main/HW2/image/image_gray.jpg)
