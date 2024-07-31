@@ -19,8 +19,8 @@
 最後用PyInstaller將程式碼轉換成執行檔。**    
 
 ### GUI介面
-![image](https://github.com/ttcheng26/MyAIP/blob/main/HW2/image/image_gray.jpg)
+![image](https://github.com/ttcheng26/MyAIP/blob/main/HW3/image/GUI.jpg)
 
 ### 高斯雜訊標準差輸入框 / 標準差=5之成果
-
+![input](https://github.com/ttcheng26/MyAIP/blob/main/HW3/image/GUI.jpg)![output](https://github.com/ttcheng26/MyAIP/blob/main/HW3/image/output_std5_Gaussian_noise.jpg)
 ### 椒鹽雜訊標準差輸入框 / 百分比=10%之成果
