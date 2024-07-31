@@ -13,10 +13,10 @@
 
 
 ### 建立GUI，新增[選擇照片][顯示影像][影像旋轉][存檔]之功能鍵
-![image](https://github.com/ttcheng26/MyAIP/blob/main/HW1--Image%20read%2C%20write%20and%20rotation/image/gui.jpg)
+![GUI](https://github.com/ttcheng26/MyAIP/blob/main/HW1/image/gui.jpg)
 
 ### 讀取影像並旋轉
-![image](https://github.com/ttcheng26/MyAIP/blob/main/HW1--Image%20read%2C%20write%20and%20rotation/image/image_read.jpg)
+![Read_Image](https://github.com/ttcheng26/MyAIP/blob/main/HW1/image/image_read.jpg)
 
 
 
