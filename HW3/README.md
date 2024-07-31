@@ -12,16 +12,16 @@
 **在這份作業中，我將GUI視窗分成六部分  
 分別為輸入影像、雜訊、高斯雜訊(椒鹽雜訊)及所對應之直方圖  
 其中，高斯雜訊是根據課程講義演算法2.3自行撰寫(詳見程式碼第64行 def gaussian())  
-<img src="image.png" alt="drawing" width="400"/>  
+<img src="image.png" alt="drawing" width="500"/>  
 另外在高斯雜訊使用上，我製作一個標準差輸入框，user可以根據標準差的不同，  
 輸出不同效果的高斯雜訊圖   
 在椒鹽雜訊上面也是一樣，給予一個百分比輸入框。  
 最後用PyInstaller將程式碼轉換成執行檔。**    
 
 ### GUI介面
-<img src="image\GUI.jpg" alt="gui" width="400"/> 
+<img src="image\GUI.jpg" alt="gui" width="500"/> 
 
 ### 高斯雜訊標準差輸入框 / 標準差=5之成果
-
+<img src="image\input_std_Gaussian_noise.jpg" alt="input" width="300" /><img src="image\output_std5_Gaussian_noise.jpg" alt="input" width="300" />
 
 ### 椒鹽雜訊標準差輸入框 / 百分比=10%之成果
