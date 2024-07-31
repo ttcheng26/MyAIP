@@ -22,6 +22,6 @@
 <img src="image\GUI.jpg" alt="gui" width="600"/> 
 
 ### 高斯雜訊標準差輸入框 / 標準差=5之成果
-<img src="image\input_std_Gaussian_noise.jpg" alt="input" width="400" /><img src="image\output_std5_Gaussian_noise.jpg" alt="input" width="400" />
+<img src="image\input_std_Gaussian_noise.jpg" alt="input" width="500" /><img src="image\output_std5_Gaussian_noise.jpg" alt="input" width="500" />
 
 ### 椒鹽雜訊標準差輸入框 / 百分比=10%之成果
